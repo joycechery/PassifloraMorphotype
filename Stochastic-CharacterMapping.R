@@ -7,7 +7,7 @@ library(grDevices)
 library(geiger)
 
 setwd("~/Desktop/Passiflora/")
-tree <-read.nexus("infile.mcc.ultrametric.tre")
+tree <-read.nexus("Passiflora_maximum_clade_credibility_ultrametric.tree")
 plotTree(tree)
 
 #tree$tip.label
