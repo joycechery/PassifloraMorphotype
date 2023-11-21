@@ -1,4 +1,4 @@
-#function to computer posterior probabilities at the nodes (L88-93) by liam revell from http://blog.phytools.org/2012/12/plotting-node-piecharts-on-top-of.html
+#function to computer posterior probabilities at the nodes (L89-95) by liam revell from http://blog.phytools.org/2012/12/plotting-node-piecharts-on-top-of.html
 #function to plot simmaps and node posterior probabilities in the code file named "Plot_simmap" by Dr. Michael May
 
 #this code plots stochastic character maps along the branches of the phylogeny and piecharts at the nodes
